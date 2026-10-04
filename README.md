@@ -7,18 +7,18 @@
 
 <p align="center">
   <a href="mailto:galipelli.sairaghava@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/sairaghava">LinkedIn</a> •
-  <a href="https://github.com/YOUR-USERNAME/sairaghava-resume">Resume</a>
+  <a href="https://www.linkedin.com/in/sairaghava2542">LinkedIn</a> •
+  <a href="https://github.com/sairaghava2542/sairaghava-resume">Resume</a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently: ASIC Physical Design Training @ **EDGE SENSE TECH SOLUTIONS (Aug 2025 - Feb 2026)**
+
 - 🎓 M.Tech VLSI System Design @ **BVRIT, Narsapur (2024-2026) | CGPA: 8.91/10**
 - ⚙️ Hands-on in full **RTL-to-GDSII**: Synthesis, Floorplan, Powerplan, Placement, CTS, Routing, STA Closure
-- 🛠️ Daily tools: **Synopsys DC, ICC2, PrimeTime, VCS, Verdi, SpyGlass + TCL/Linux**
+- 🛠️ Daily tools: **Synopsys DC, ICC2, PrimeTime, VCS, Verdi, SpyGlass , TCL, Linux**
 - 🎯 Open to: **ASIC Physical Design / STA Engineer roles**
 - 📍 Hyderabad, India
 
@@ -40,7 +40,7 @@
 | Project | Node / Size | Highlights |
 | :--- | :--- | :--- |
 | **32-bit Pipelined RISC-V Processor** | 32nm | Full PD flow, useful-skew, congestion fix with blockages/keepouts |
-| **ORCA Core - PD Implementation** | 56K cells, 40 macros, 433MHz | Manual macro placement, PrimeTime setup/hold closure |
+| **ORCA Core - PD Implementation** | 32nm , 56K cells, 40 macros, 433MHz | Manual macro placement, PrimeTime setup/hold closure |
 | **INT8 Systolic-Array AI Accelerator** | 28nm, 39K, 500MHz | 8x8 MAC array, 2ns closure, VCS+DC+ICC2 flow |
 
 > 📄 Full details + PDF in my resume repo: **sairaghava-resume**
@@ -48,7 +48,7 @@
 ### 📫 Let's Connect
 <p align="left">
   <a href="mailto:galipelli.sairaghava@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sairaghava"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sairaghava2542"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">⭐ From RTL to GDSII - focused on Timing QoR, Congestion, and Clean Signoff ⭐</p>
