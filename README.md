@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:galipelli.sairaghava@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/sairaghava2542">LinkedIn</a> •
-  <a href="https://github.com/sairaghava2542/sairaghava-resume">Resume</a>
+  <a href="https://github.com/sairaghava2542/Sai_Raghava-resume">Resume</a>
 </p>
 
 ---
